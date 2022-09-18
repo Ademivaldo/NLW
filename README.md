@@ -6,7 +6,7 @@ Projeto feito no evento Next Level Week da Rocketseat, alguns pontos com tentavi
 
 ![preview](./.github/preview.png)
 
-[Clique para acessar](https://ademivaldo.github.io/NLW/)
+[Clique aqui para acessar](https://ademivaldo.github.io/NLW/)
 
 ## Tecnologias
 
